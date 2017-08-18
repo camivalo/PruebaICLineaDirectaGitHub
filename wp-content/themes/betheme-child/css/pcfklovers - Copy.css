@@ -1,0 +1,350 @@
+/* 
+ * Created on : 26/05/2017, 08:15:14 AM
+ * Author     : Felipe Echeverri <felipe.echeverri@ingeneo.com.co> * 
+ */
+.w3-modal {
+    padding-top: 50px;
+}
+.w3-modal {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: none;
+    height: 100%;
+    left: 0;
+    overflow: auto;
+    padding-top: 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 40;
+    transition: all 0.3s ease-in-out 0s;
+}
+.w3success{
+    background-color: rgba(0, 132, 96, 0.8);
+}
+.w3error{
+    background-color: rgba(247, 66, 23, 0.8);    
+}
+.w3-modal-content {
+    color: white;
+    margin: auto;
+    outline: 0 none;
+    padding: 0;
+    position: relative;
+    width: 40%;
+}
+.w3-container::after, .w3-container::before, .w3-panel::after, .w3-panel::before, .w3-row::after, .w3-row::before, .w3-row-padding::after, .w3-row-padding::before, .w3-cell-row::before, .w3-cell-row::after, .w3-clear::after, .w3-clear::before, .w3-bar::before, .w3-bar::after {
+    clear: both;
+    content: "";
+    display: table;
+}
+.w3-container::after, .w3-container::before, .w3-panel::after, .w3-panel::before, .w3-row::after, .w3-row::before, .w3-row-padding::after, .w3-row-padding::before, .w3-cell-row::before, .w3-cell-row::after, .w3-clear::after, .w3-clear::before, .w3-bar::before, .w3-bar::after {
+    clear: both;
+    content: "";
+    display: table;
+}
+.w3-container, .w3-panel {
+    padding: 0.01em 16px;
+}
+.w3-display-topright {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.w3-btn, .w3-button {
+    -moz-user-select: none;
+}
+.w3-btn, .w3-button {
+    background-color: inherit;
+    border: medium none;
+    color: inherit;
+    cursor: pointer;
+    display: inline-block;
+    outline: 0 none;
+    overflow: hidden;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.w3-container > p{
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    margin: 10px 0 !important;
+}
+.margtop{
+    margin-top: 20px;
+}
+.logot{
+    display: none;
+}
+span.not-valid-tip {
+    background: rgba(0, 0, 0, 0) url("../images/contact_form_error.png") repeat scroll 0 0;
+    border: medium none;
+    height: 44px;
+    left: -50px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    text-indent: -9999px;
+    top: 0;
+    width: 50px;
+}
+.checkbox-form span.not-valid-tip{
+    width: 50px;
+    margin-top: 20px;
+}
+.checkbox-form input{
+    margin-top: 35px;
+}
+.form-pcfk input[type="submit"]{
+    margin: 25px 0 !important;
+    float: right;
+}
+.box-cupon,
+.box-cedula{
+    margin: 20px auto;
+    width: 50%;
+    display: none;
+}
+.ui-datepicker {
+    width: 17em;
+    padding: .2em .2em 0;
+    display: none;
+}
+.ui-datepicker .ui-datepicker-header {
+    position: relative;
+    padding: .2em 0;
+}
+.ui-datepicker .ui-datepicker-prev,
+.ui-datepicker .ui-datepicker-next {
+    position: absolute;
+    top: 2px;
+    width: 1.8em;
+    height: 1.8em;
+}
+.ui-datepicker .ui-datepicker-prev-hover,
+.ui-datepicker .ui-datepicker-next-hover {
+    top: 1px;
+}
+.ui-datepicker .ui-datepicker-prev {
+    left: 2px;
+}
+.ui-datepicker .ui-datepicker-next {
+    right: 2px;
+}
+.ui-datepicker .ui-datepicker-prev-hover {
+    left: 1px;
+}
+.ui-datepicker .ui-datepicker-next-hover {
+    right: 1px;
+}
+.ui-datepicker .ui-datepicker-prev span,
+.ui-datepicker .ui-datepicker-next span {
+    display: block;
+    position: absolute;
+    left: 50%;
+    margin-left: -8px;
+    top: 50%;
+    margin-top: -8px;
+}
+.ui-datepicker .ui-datepicker-title {
+    margin: 0 2.3em;
+    line-height: 1.8em;
+    text-align: center;
+}
+.ui-datepicker .ui-datepicker-title select {
+    font-size: 1em;
+    margin: 1px 0;
+}
+.ui-datepicker select.ui-datepicker-month,
+.ui-datepicker select.ui-datepicker-year {
+    width: 45%;
+}
+.ui-datepicker table {
+    width: 100%;
+    font-size: .9em;
+    border-collapse: collapse;
+    margin: 0 0 .4em;
+}
+.ui-datepicker th {
+    padding: .7em .3em;
+    text-align: center;
+    font-weight: bold;
+    border: 0;
+}
+.ui-datepicker td {
+    border: 0;
+    padding: 1px;
+}
+.ui-datepicker td span,
+.ui-datepicker td a {
+    display: block;
+    padding: .2em;
+    text-align: right;
+    text-decoration: none;
+}
+.ui-datepicker .ui-datepicker-buttonpane {
+    background-image: none;
+    margin: .7em 0 0 0;
+    padding: 0 .2em;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+}
+.ui-datepicker .ui-datepicker-buttonpane button {
+    float: right;
+    margin: .5em .2em .4em;
+    cursor: pointer;
+    padding: .2em .6em .3em .6em;
+    width: auto;
+    overflow: visible;
+}
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current {
+    float: left;
+}
+
+/* with multiple calendars */
+.ui-datepicker.ui-datepicker-multi {
+    width: auto;
+}
+.ui-datepicker-multi .ui-datepicker-group {
+    float: left;
+}
+.ui-datepicker-multi .ui-datepicker-group table {
+    width: 95%;
+    margin: 0 auto .4em;
+}
+.ui-datepicker-multi-2 .ui-datepicker-group {
+    width: 50%;
+}
+.ui-datepicker-multi-3 .ui-datepicker-group {
+    width: 33.3%;
+}
+.ui-datepicker-multi-4 .ui-datepicker-group {
+    width: 25%;
+}
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header,
+.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header {
+    border-left-width: 0;
+}
+.ui-datepicker-multi .ui-datepicker-buttonpane {
+    clear: left;
+}
+.ui-datepicker-row-break {
+    clear: both;
+    width: 100%;
+    font-size: 0;
+}
+
+/* RTL support */
+.ui-datepicker-rtl {
+    direction: rtl;
+}
+.ui-datepicker-rtl .ui-datepicker-prev {
+    right: 2px;
+    left: auto;
+}
+.ui-datepicker-rtl .ui-datepicker-next {
+    left: 2px;
+    right: auto;
+}
+.ui-datepicker-rtl .ui-datepicker-prev:hover {
+    right: 1px;
+    left: auto;
+}
+.ui-datepicker-rtl .ui-datepicker-next:hover {
+    left: 1px;
+    right: auto;
+}
+.ui-datepicker-rtl .ui-datepicker-buttonpane {
+    clear: right;
+}
+.ui-datepicker-rtl .ui-datepicker-buttonpane button {
+    float: left;
+}
+.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current,
+.ui-datepicker-rtl .ui-datepicker-group {
+    float: right;
+}
+.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header,
+.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header {
+    border-right-width: 0;
+    border-left-width: 1px;
+}
+
+/* Icons */
+.ui-datepicker .ui-icon {
+    display: block;
+    text-indent: -99999px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    left: .5em;
+    top: .3em;
+}
+.dvLoading{
+    background: url("../images/preloader.gif") no-repeat scroll center center rgba(0, 0, 0, 0.75);
+    position: absolute;
+    height: 150%;
+    width: 100%;   
+    left: 0px;
+    top: 0px;
+    z-index: 9999;
+}
+.content-movil{
+    display: none;
+    font-size: 14px;
+    line-height: 15px;
+}
+.list-clientes{
+    margin: 0 auto;
+    display: inline-table;
+}
+.faceconnect{
+    margin: 50px 0;
+    text-align: center;
+    display: none;
+}
+.form-subscribe{
+/*    display: none;*/
+}
+.on-want, .off-want{
+    color: #FFFFFF !important;
+}
+.on-want:hover, .off-want:hover{
+    color: #000000 !important;
+}
+.errorcupon h1{
+    font-size: 50px; 
+    line-height: 50px; 
+    margin-bottom: 30px;
+}
+@media (max-width: 768px) {
+    .w3-modal-content {
+        width: 80%;
+    }
+    .margtop{
+        margin-top: 0px;
+    }
+    .logot{
+        display: block;
+    }
+    .box-cupon,
+    .box-cedula{       
+        width: 90%;
+    }    
+    .errorcupon h1,
+    .how_it_works .desc h1{
+        font-size: 40px !important;
+        line-height: 40px !important; 
+    }
+    .errorcupon h4,
+    .how_it_works .desc h4{
+        font-size: 17px !important;
+        line-height: 20px !important;
+    }
+
+}

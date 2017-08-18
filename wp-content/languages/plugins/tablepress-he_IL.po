@@ -1,0 +1,1784 @@
+# Translation of Plugins - TablePress - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - TablePress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-24 09:25:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - TablePress - Stable (latest release)\n"
+
+#: views/view-options.php:81
+msgid "In the User Options, every TablePress user can choose the position of the plugin in his WordPress admin menu."
+msgstr "באפשרויות משתמש, כל משתמש TablePress יכול לבחור את המיקום של התוסף בלוח הבקרה."
+
+#: views/view-about.php:211
+msgid "the translators in the <a href=\"%s\">Plugin Directory</a>,"
+msgstr "המתרגמים <a href=\"%s\">בספריית התוספים</a>,"
+
+#: views/view-about.php:210
+msgid "Allan Jardine for <a href=\"%s\">DataTables</a>,"
+msgstr "אלן ג'רדין עבור <a href=\"%s\">DataTables</a>, "
+
+#. Author URI of the plugin/theme
+msgid "https://tobias.baethge.com/"
+msgstr "https://tobias.baethge.com/"
+
+#. Author of the plugin/theme
+msgid "Tobias Bäthge"
+msgstr "טוביאס בתגה"
+
+#. Description of the plugin/theme
+msgid "Embed beautiful and feature-rich tables into your posts and pages, without having to write code."
+msgstr "הטמעת טבלאות יפות בפוסטים ובעמודים, ללא כתיבת קוד."
+
+#. Plugin URI of the plugin/theme
+msgid "https://tablepress.org/"
+msgstr "https://tablepress.org/"
+
+#: views/view-options_custom_css.php:141
+msgid "Proceed without saving &#8220;Custom CSS&#8221; to a file"
+msgstr "לקובץ &#8221;CSS  הגדרות&#8220;  המשך ללא שמירת "
+
+#: views/view-options_custom_css.php:139
+msgid "Your &#8220;Custom CSS&#8221; will then be loaded inline."
+msgstr "&#8221;קוד ה- CSS שלך&#8220; יטען אז און-ליין."
+
+#: views/view-options_custom_css.php:138
+msgid "To proceed without trying to save the &#8220;Custom CSS&#8221; to a file, click the button below."
+msgstr "להמשך ללא שמירה של &#8221; CSS& מותאם #8220; לקובץ, לחץ על הכפתור למטה."
+
+#: views/view-options_custom_css.php:136
+msgid "Proceed without saving a file"
+msgstr "המשך ללא שמירת הקובץ"
+
+#: views/view-options_custom_css.php:109
+msgid "Connection Information"
+msgstr "מידע התחברות"
+
+#: views/view-options_custom_css.php:109
+msgid "To try again with the same method that you use for updating plugins or themes, please fill out the &#8220;%s&#8221; form below."
+msgstr "כדי לנסות שוב באותה דרך בה הנך משתמש לעדכון תוספים או תבניות, יש למלא בבקשה את &#8221;%s&#8220; הטופס בהמשך."
+
+#: views/view-options_custom_css.php:108
+msgid "Due to the configuration of your server, TablePress was not able to automatically save your &#8220;Custom CSS&#8221; to a file."
+msgstr "שלך לקובץ &#8221;הגדרות CSS&#8220; CSS עקב הגדרות שרת האחסון שלך, המערכת לא הצליחה לשמור אוטומטית את הגדרות ה "
+
+#: views/view-options_custom_css.php:39
+msgid "Attention: Further action is required to save the changes to your &#8220;Custom CSS&#8221;!"
+msgstr "שים לב: נדרשת פעולה נוספת לשמירת השינויים ב &#8221;הגדרות CSS &#8220;!"
+
+#: views/view-options.php:189
+msgid "Be very careful with this and only click the button if you know what you are doing!"
+msgstr "פעל בזהירות! לחץ על הכפתור רק אם הינך בטוח במה שאתה עושה!"
+
+#: views/view-options.php:188
+msgid "You will manually need to remove the plugin&#8217;s files from the plugin folder afterwards."
+msgstr "תיאלץ לאחר מכן למחוק את קבצי התוסף ידנית ממחיצת התוסף."
+
+#: views/view-options.php:187
+msgid "It is recommended that you create a backup of the tables (by exporting the tables in the JSON format), in case you later change your mind."
+msgstr "מומלץ ורצוי ליצור גיבוי של הטבלאות (ע\"י יצוא הטבלאות בפורמט JSON), למקרה שתתחרט אחר כך. "
+
+#: views/view-options.php:186
+msgid "Uninstalling <strong>will permanently delete</strong> all TablePress tables and options from the database."
+msgstr "הסרת התוסף <strong>תמחק לצמיתות</strong> את כל הטבלאות וההגדרות של TablePress מבסיס הנתונים של האתר."
+
+#: views/view-options.php:167
+msgid "TablePress shall be shown in this section of my admin menu: %s"
+msgstr "TablePress יוצג באזור זה של ממשק הניהול: %s"
+
+#: views/view-options.php:166
+msgid "Admin menu entry"
+msgstr "כניסה בתפריט מנהל (אדמין)"
+
+#: views/view-options.php:157
+msgid "Top-Level (bottom)"
+msgstr "רמה עליונה (תחתית)"
+
+#: views/view-options.php:156
+msgid "Top-Level (middle)"
+msgstr "רמה עליונה (אמצע)"
+
+#: views/view-options.php:155
+msgid "Top-Level (top)"
+msgstr "רמה עליונה (למעלה)"
+
+#: views/view-options.php:115
+msgid "Please note that invalid CSS code will be stripped, if it can not be corrected automatically."
+msgstr "שים לב: במקרה של קוד CSS לא תקין, התוסף יסיר אותו בלבד אם לא יהיה ניתן לתקנו באופן אוטומטי."
+
+#: views/view-options.php:113
+msgid "Information on available CSS selectors can be found in the <a href=\"%s\">documentation</a>."
+msgstr " מידע על סלקטורים CSS ניתן למצוא ב <a href=\"%s\">תיעוד</a>.<br />"
+
+#: views/view-options.php:111
+msgid "You can get styling examples from the <a href=\"%s\">FAQ</a>."
+msgstr " ניתן לקבל דוגמאות לעיצוב טבלאות בקישור <a href=\"%s\">שאלות ותשובות</a>."
+
+#: views/view-options.php:109
+msgid "&#8220;Custom CSS&#8221; (<a href=\"%s\">Cascading Style Sheets</a>) can be used to change the styling or layout of a table."
+msgstr "&#8221;הגדרות CSS &#8220; מאפשרות לשנות את הפריסה והעיצוב של הטבלה, להרחבה ראה (<a href=\"%s\">Cascading Style Sheets</a>).<br />"
+
+#: views/view-options.php:101
+msgid "Load these &#8220;Custom CSS&#8221; commands to influence the table styling:"
+msgstr "טען &#8221;הגדרות CSS&#8220; כדי לשנות את עיצוב הטבלה כרצונך."
+
+#: views/view-options.php:100
+msgid "Custom CSS"
+msgstr "CSS מותאם אישית"
+
+#: views/view-options.php:78
+msgid "Frontend Options influence the styling of tables in pages, posts, or text widgets, by defining which CSS code shall be loaded."
+msgstr "אפשרויות תצוגה באתר משפיעות על עיצוב הטבלאות בעמודים, פוסטים או ווידג'טים, באמצעות ההגדרה איזה קוד CSS יטען."
+
+#: views/view-options.php:73
+msgid "TablePress has several options which affect the plugin&#8217;s behavior in different areas."
+msgstr "לתוסף TablePress יש מספר אופציות המשפיעות על התנהגות התוסף בתחומים שונים."
+
+#: views/view-options.php:54
+msgid "User Options"
+msgstr "אפשרויות המשתמש"
+
+#: views/view-options.php:52
+msgid "Frontend Options"
+msgstr "אפשרויות תצוגה באתר"
+
+#: views/view-options.php:47
+msgid "The WP-Table Reloaded &#8220;Custom CSS&#8221; was imported successfully."
+msgstr "WP-Table Reloaded  &#8221;קוד CSS מותאם&#8220; יובא בהצלחה."
+
+#: views/view-options.php:46
+msgid "Error: Options could not be saved."
+msgstr "שגיאה: ההגדרות לא נשמרו."
+
+#: views/view-options.php:45
+msgid "Options saved successfully, but &#8220;Custom CSS&#8221; was not saved to file."
+msgstr "ההגדרות נשמרו בהצלחה, אבל &#8221;הגדרות CSS&#8220; לא נשמרו לקובץ."
+
+#: views/view-options.php:44
+msgid "Options saved successfully."
+msgstr "ההגדרות נשמרו בהצלחה"
+
+#: views/view-options.php:39
+msgid "Are you really sure?"
+msgstr "האם אתה בטוח בטוח??"
+
+#: views/view-options.php:38
+msgid "Do you really want to uninstall TablePress and delete ALL data?"
+msgstr "האם באמת הנך רוצה להסיר את ההתקנה של TablePress ולמחוק את *כל* הנתונים?"
+
+#: views/view-list.php:612
+msgid "You should <a href=\"%s\">import</a> a table to get started!"
+msgstr "עלייך <a href=\"%s\">לייבא</a> טבלה כדי להתחיל!"
+
+#: views/view-list.php:610
+msgid "You should <a href=\"%s\">add</a> a table to get started!"
+msgstr "עלייך <a href=\"%s\">להוסיף</a> טבלה כדי להתחיל!"
+
+#: views/view-list.php:589
+msgid "Apply"
+msgstr "הפעל"
+
+#: views/view-list.php:584
+msgid "Bulk Actions"
+msgstr "פעולה על קבוצה"
+
+#: views/view-list.php:582
+msgid "Select Bulk Action"
+msgstr "בחר פעולה על קבוצה"
+
+#: views/view-list.php:550
+msgctxt "bulk action"
+msgid "Delete"
+msgstr "מחק"
+
+#: views/view-list.php:547
+msgctxt "bulk action"
+msgid "Export"
+msgstr "יצוא"
+
+#: views/view-list.php:544
+msgctxt "bulk action"
+msgid "Copy"
+msgstr "העתק"
+
+#: views/view-list.php:445
+msgid "Show a preview of &#8220;%s&#8221;"
+msgstr " &#8221;%s&#8220; הצג תצוגה מקדימה של "
+
+#: views/view-list.php:442
+msgid "Delete &#8220;%s&#8221;"
+msgstr " &#8221;%s&#8220; מחק"
+
+#: views/view-list.php:439
+msgctxt "row action"
+msgid "Export"
+msgstr "יצוא"
+
+#: views/view-list.php:439
+msgid "Export &#8220;%s&#8221;"
+msgstr "&#8221;%s&#8220; יצוא  "
+
+#: views/view-list.php:436
+msgid "Copy"
+msgstr "העתק"
+
+#: views/view-list.php:436
+msgid "Copy &#8220;%s&#8221;"
+msgstr "&#8221;%s&#8220;  העתק "
+
+#: views/view-list.php:434
+msgid "Show Shortcode"
+msgstr "הצג קוד מקוצר"
+
+#: views/view-list.php:425 views/view-list.php:432
+msgid "Edit &#8220;%s&#8221;"
+msgstr " &#8221;%s&#8220; עריכת"
+
+#: views/view-list.php:324
+msgid "Last Modified By"
+msgstr "עודכן לאחרונה ע\"י"
+
+#: views/view-list.php:323
+msgid "Author"
+msgstr "יוצר"
+
+#: views/view-list.php:189
+msgid "Each table has a unique ID that needs to be adjusted in that Shortcode."
+msgstr "לכל טבלה יש מספר מזהה שיש לעדכנו בכל מופע של קוד מקוצר"
+
+#: views/view-list.php:185
+msgid "Click the corresponding links within the list to edit, copy, delete, or preview a table."
+msgstr "לחץ על הקישורים המתאימים ברשימה לעריכה, העתקה, מחיקה או תצוגה מקדימה של טבלה."
+
+#: views/view-list.php:184
+msgid "This is a list of your tables."
+msgstr "זו היא רשימת כל הטבלאות במערכת."
+
+#: views/view-list.php:118
+msgid "Tables"
+msgstr "טבלאות"
+
+#: views/view-list.php:112
+msgid "The tables were imported successfully from WP-Table Reloaded."
+msgstr "הטבלאות יובאו בהצלחה מתוסף WP-Table Reloaded."
+
+#: views/view-list.php:111
+msgid "The tables were imported successfully."
+msgstr "הטבלאות יובאו בהצלחה"
+
+#: views/view-list.php:110
+msgid "Notice: Not all selected tables could be copied!"
+msgstr "שים לב: לא כל הטבלאות שנבחרו הועתקו!"
+
+#: views/view-list.php:109
+msgid "Notice: Not all selected tables could be deleted!"
+msgstr "שים לב: לא היה ניתן להעתיק את כל הטבלאות שנבחרו!"
+
+#: views/view-list.php:108
+msgid "Error: You did not select any tables!"
+msgstr "שגיאה: לא נבחרה טבלה."
+
+#: views/view-list.php:107
+msgid "Error: This bulk action is invalid!"
+msgstr "שגיאה: הפעולה המרובה הינה בלתי חוקית."
+
+#: views/view-list.php:105
+msgid "Error: You did not specify a valid table ID."
+msgstr "שגיאה: לא ציינת מספר טבלה בתוקף."
+
+#: views/view-list.php:104
+msgid "Error: The table could not be copied."
+msgstr "שגיאה: לא ניתן להעתיק את הטבלה."
+
+#: views/view-list.php:102
+msgid "The copied table has the table ID &#8220;%s&#8221;."
+msgstr "הטבלה המועתקת בעלת מספר מזהה  &#8220;%s&#8221;."
+
+#: views/view-list.php:98 views/view-list.php:99
+msgid "The table was deleted successfully."
+msgid_plural "The tables were deleted successfully."
+msgstr[0] "הטבלה נמחקה."
+msgstr[1] "הטבלאות נמחקו."
+
+#: views/view-list.php:91
+msgid "If you like the new features and enhancements, <a href=\"%s\">giving a donation</a> towards the further support and development of TablePress is recommended. Thank you!"
+msgstr "אם התכונות החדשות והשיפורים מוצאים חן בעינייך אזי מומלץ מאוד, <a href=\"%s\">מתן תרומה</a> לטובת המשך תמיכה ופיתוח התוסף TablePress. תודה רבה!"
+
+#: views/view-list.php:90
+msgid "Please read the <a href=\"%s\">release announcement</a> for more information."
+msgstr "למידע נוסף נא קרא <a href=\"%s\">הכרזת גירסה</a>"
+
+#: views/view-list.php:89
+msgid "Thank you for updating to TablePress %s!"
+msgstr "תודה שהשתמשת ב-  TablePress %s!"
+
+#: views/view-list.php:82
+msgid "No, thanks. Don&#8217;t ask again."
+msgstr "לא תודה.  אל תשאל שוב."
+
+#: views/view-list.php:81
+msgid "I already donated."
+msgstr "כבר תרמתי."
+
+#: views/view-list.php:80
+msgid "Sure, I&#8217;ll buy you a coffee and support TablePress!"
+msgstr "TablePress! - כמובן שאני אקנה לך קפה ואתמוך ב"
+
+#: views/view-list.php:79
+msgid "Sincerly, Tobias"
+msgstr "תודה, טוביאס"
+
+#: views/view-list.php:78
+msgid "<a href=\"%s\">Donations</a> help me to continue user support and development of this <em>free</em> software &mdash; things for which I spend countless hours of my free time! Thank you very much!"
+msgstr "<a href=\"%s\">תרומות</a> יאפשרו לי להמשיך ולפתח ולתמוך בתוסף <em>החינמי</em> &mdash; הזה; זהו מאמץ שמחייב שעות אינספור מזמני הפנוי! תודה רבה לך!"
+
+#: views/view-list.php:77
+msgid "If everything works and you are satisfied with the results of managing your %s table, isn&#8217;t that worth a coffee or two?"
+msgid_plural "If everything works and you are satisfied with the results of managing your %s tables, isn&#8217;t that worth a coffee or two?"
+msgstr[0] "אם הכל עובד והנך מרוצה מהתוצאות של ניהול טבלה %s, האין זה מצדיק רכישת כוס קפה או שתיים עבורי ?"
+msgstr[1] "אם הכל עובד והנך מרוצה מהתוצאות של ניהול טבלאות %s, האין זה מצדיק רכישת כוס קפה או שתיים עבורי?"
+
+#: views/view-list.php:76
+msgid "Thanks for using it! You&#8217;ve installed TablePress over a month ago."
+msgstr "תודה שהשתמשת בתוסף!  התקנת אותו לפני למעלה מחודש."
+
+#: views/view-list.php:75
+msgid "Hi, my name is Tobias, I&#8217;m the developer of the TablePress plugin."
+msgstr "אהלן, שמי הוא טוביאס (Tobias), אני המפתח של תוסף  TablePress."
+
+#: views/view-list.php:74
+msgid "Tobias Bäthge, developer of TablePress"
+msgstr "Tobias Bäthge, מפתח של TablePress"
+
+#: views/view-list.php:67
+msgid "Import your tables from WP-Table Reloaded"
+msgstr "WP-Table Reloaded יבוא טבלאות מ"
+
+#: views/view-list.php:66
+msgid "Please follow the <a href=\"%s\">migration guide</a> to move your tables and then deactivate WP-Table Reloaded!"
+msgstr "נא לעקוב אחר <a href=\"%s\">הנחיות למעבר</a> כדי להעביר את הטבלאות ואז לכבות את WP-Table Reloaded!"
+
+#: views/view-list.php:65
+msgid "It is strongly recommended that you switch from WP-Table Reloaded to TablePress, which not only fixes many problems, but also has more and better features than WP-Table Reloaded."
+msgstr "מומלץ מאוד שתעבור מ- WP-Table Reloaded אל TablePress תוסף שמכיל תיקוני באגים רבים וכן תכונות חדשות ומשופרות שאין ולא יהיו בתוסף  WP-Table Reloaded."
+
+#: views/view-list.php:64
+msgid "You have activated the plugin WP-Table Reloaded, which can not be used together with TablePress."
+msgstr "הפעלת את תוסף WP-Table Reloaded שלא ניתן להשתמש בו יחד עם תוסף TablePress."
+
+#: views/view-list.php:63
+msgid "Attention!"
+msgstr "זהירות!"
+
+#: views/view-list.php:56 views/view-list.php:93
+msgid "Hide this message"
+msgstr "הסתר הודעה זו."
+
+#: views/view-list.php:55
+msgid "If you encounter any questions or problems, please visit the <a href=\"%1$s\">FAQ</a>, the <a href=\"%2$s\">documentation</a>, and the <a href=\"%3$s\">Support</a> section on the <a href=\"%4$s\">plugin website</a>."
+msgstr "אם נתקלת בבעיה או שאלה, נא בדוק <a href=\"%1$s\">ברשימת שאלות נפוצות</a>, <a href=\"%2$s\">בתיעוד</a>, וגם <a href=\"%3$s\">בתמיכה</a>אשר ב-  <a href=\"%4$s\">אתר התוסף</a>."
+
+#: views/view-list.php:54
+msgid "Thank you for using TablePress for the first time!"
+msgstr "תודה שהשתמשת ב TablePress  בפעם הראשונה."
+
+#: views/view-list.php:53
+msgid "Welcome!"
+msgstr "ברוכים הבאים!"
+
+#: views/view-list.php:47
+msgid "No problem! I still hope you enjoy the benefits that TablePress adds to your site. If you should change your mind, you&#8217;ll always find the &#8220;Donate&#8221; button on the <a href=\"%s\">TablePress website</a>."
+msgstr "אין בעיה! אני עדיין מקווה שנהנית מהיתרונות שתוסף TablePress  מוסיף לאתרך.  אם תשנה את דעתך, תמיד תוכל למצוא את כפתור &#8220;התרומה&#8221; <a href=\"%s\">TablePress באתר</a>."
+
+#: views/view-list.php:46
+msgid "Thank you very much! Your donation is highly appreciated. You just contributed to the further development of TablePress!"
+msgstr "תודה רבה! תרומתך מאוד מוערכת. בזכותך נוכל להמשיך לפתח את התוסף."
+
+#: views/view-list.php:45
+msgid "To embed this table into a post or page, use this Shortcode:"
+msgstr "כדי להציג טבלה בפוסט או עמוד יש להשתמש בקוד המקוצר:"
+
+#: views/view-import.php:295
+msgid "You can import your existing tables and &#8220;Custom CSS&#8221; from WP-Table Reloaded into TablePress."
+msgstr "ניתן ליבא טבלאות כמו גם &#8221;קוד CSS &#8220; מתוסף  WP-Table Reloaded לתוך TablePress."
+
+#: views/view-import.php:294
+msgid "TablePress Feature: Import from WP-Table Reloaded"
+msgstr "WP-Table Reloaded-יבוא מ :TablePress תכונת"
+
+#: views/view-import.php:277
+msgctxt "button"
+msgid "Import from WP-Table Reloaded"
+msgstr "יבוא טבלאות מ-WP-Table Reloaded"
+
+#: views/view-import.php:273
+msgid "Try to automatically convert the &#8220;Custom CSS&#8221; code from the &#8220;Plugin Options&#8221; screen of WP-Table Reloaded."
+msgstr "נסה להמיר בצורה אוטומטית את &#8221;קוד CSS מותאם&#8220; ישירות &#8221;ממסך התוסף &#8220; של  WP-Table Reloaded."
+
+#: views/view-import.php:272
+msgid "Import styling"
+msgstr "יבוא עיצוב"
+
+#: views/view-import.php:269
+msgid "Import all tables and their settings from WP-Table Reloaded."
+msgstr "WP-Table Reloaded-יבוא כל הטבלאות וההגדרות שלהן מ"
+
+#: views/view-import.php:268
+msgid "Import tables"
+msgstr "יבוא טבלאות"
+
+#: views/view-import.php:254
+msgid "WP-Table Reloaded Dump File"
+msgstr "קובץ WP-Table Reloaded Dump"
+
+#: views/view-import.php:253
+msgid "WordPress database"
+msgstr "בסיס נתונים וורדפרס"
+
+#: views/view-import.php:246
+msgid "Before doing this, it is highly recommended to read the <a href=\"%s\">migration guide</a> on the TablePress website."
+msgstr "לפני שתבצעו זאת, מומלץ מאוד לקרוא <a href=\"%s\">הנחיות למעבר</a> (migration) שנמצא באתר TablePress."
+
+#: views/view-import.php:244
+msgid "If you want to import tables from another site, create a &#8220;WP-Table Reloaded Dump File&#8221; there and upload it below, after choosing &#8220;WP-Table Reloaded Dump File&#8221;."
+msgstr "כדי לייבא טבלאות מאתר אחר, צור קובץ  &#8221;WP-Table Reloaded Dump File&#8220; באתר האחר  וטען אותו כאן למטה, לאחר שסימנת בחירה של &#8221;WP-Table Reloaded Dump File&#8220;."
+
+#: views/view-import.php:243
+msgid "If WP-Table Reloaded is installed on this site, the &#8220;WordPress database&#8221; option is recommended."
+msgstr "אם תוסף WP-Table Reloaded מותקן באתר זה, אפשרות &#8221;בסיס נתונים וורדפרס&#8220; מומלצת.<br />"
+
+#: views/view-import.php:241
+msgid "To import all tables from a WP-Table Reloaded installation, choose the relevant import source below."
+msgstr "ליבוא כל הטבלאות מהתקנת WP-Table Reloaded, בחר בהמשך את המקור הרלוונטי לייבוא."
+
+#: views/view-import.php:223
+msgctxt "button"
+msgid "Import"
+msgstr "יבוא"
+
+#: views/view-import.php:203
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; בחר &mdash;"
+
+#: views/view-import.php:200
+msgid "Table to replace or append to"
+msgstr "טבלה להחלפה או להוספה לתוכה"
+
+#: views/view-import.php:196
+msgid "Append rows to existing table"
+msgstr "הוסף שורות לטבלה קיימת"
+
+#: views/view-import.php:195
+msgid "Replace existing table"
+msgstr "החלף טבלה קיימת"
+
+#: views/view-import.php:194
+msgid "Add as new table"
+msgstr "הוסף טבלה חדשה"
+
+#: views/view-import.php:192
+msgid "Add, Replace, or Append?"
+msgstr "להוסיף טבלה, להחליף טבלה או להוסיף לתוך טבלה קיימת?"
+
+#: views/view-import.php:186
+msgid "Import of HTML files is not available on your server."
+msgstr "יבוא קבצי HTML אינו אפשרי על השרת שלך."
+
+#: views/view-import.php:174
+msgid "Import Format"
+msgstr "יבוא פורמט"
+
+#: views/view-import.php:168
+msgid "Import data"
+msgstr "יבוא נתונים"
+
+#: views/view-import.php:157
+msgid "Server Path to file"
+msgstr "שם הקובץ בשרת האחסון"
+
+#: views/view-import.php:146
+msgid "File URL"
+msgstr "URL קובץ"
+
+#: views/view-import.php:140 views/view-import.php:151
+#: views/view-import.php:162
+msgid "You can import multiple tables by placing them in a ZIP file."
+msgstr "ניתן לייבא מספר טבלאות על ידי אריזתן יחד בקובץ ZIP."
+
+#: views/view-import.php:135 views/view-import.php:258
+msgid "Select file"
+msgstr "בחר קובץ"
+
+#: views/view-import.php:131
+msgid "Manual Input"
+msgstr "קלט ידני"
+
+#: views/view-import.php:130
+msgid "File on server"
+msgstr "קבצים על השרת"
+
+#: views/view-import.php:129
+msgid "URL"
+msgstr "URL"
+
+#: views/view-import.php:128
+msgid "File Upload"
+msgstr "העלאת קובץ"
+
+#: views/view-import.php:126 views/view-import.php:251
+msgid "Import Source"
+msgstr "יבוא מקור"
+
+#: views/view-import.php:105
+msgid "You can also choose to import it as a new table, to replace an existing table, or to append the rows to an existing table."
+msgstr "ניתן לבחור לייבא טבלה ולהוסיפה כטבלה חדשה או להחליפה בטבלה קיימת, או להוסיף שורות לטבלה קיימת.."
+
+#: views/view-import.php:102
+msgid "To import a table, select and enter the import source in the following form."
+msgstr "ליבוא טבלה, בחר את המקור לטבלה בטופס שלהלן."
+
+#: views/view-import.php:98
+msgid "You can also import existing tables from the WP-Table Reloaded plugin below."
+msgstr "ביכולתך לייבא טבלאות מתוסף WP-Table Reloaded בחלקו השני של עמוד זה."
+
+#: views/view-import.php:97
+msgid "TablePress can import tables from existing data, like from a CSV, XLS, or XLSX file from a spreadsheet application (e.g. Excel), an HTML file resembling a webpage, or its own JSON format."
+msgstr "ניתן ליבא טבלאות קיימות בפורמט כמו CSV מגליון אלקטרוני ( אקסל ) או HTML או בפורמט JSON."
+
+#: views/view-import.php:65
+msgid "Import from WP-Table Reloaded"
+msgstr "יבוא טבלאות מ-WP-Table Reloaded"
+
+#: views/view-import.php:63
+msgid "Import Tables"
+msgstr "יבוא טבלאות"
+
+#: views/view-import.php:59
+msgid "Error: The WP-Table Reloaded Dump File could not be imported!"
+msgstr "שגיאה: לא ניתן לייבא את קובץ ה- Dump מתוך WP-Table Reloaded."
+
+#: views/view-import.php:58
+msgid "Error: The tables from WP-Table Reloaded could not be imported."
+msgstr "שגיאה: לא ניתן לייבא את הטבלאות מתוך WP-Table Reloaded."
+
+#: views/view-import.php:57
+msgid "Error: Existing WP-Table Reloaded tables were not found in the database."
+msgstr "שגיאה: טבלאות WP-Table Reloaded לא נמצאו בבסיס הנתונים."
+
+#: views/view-import.php:55
+msgid "Error: The data for the import is invalid."
+msgstr "שגיאה: הנתונים ליבוא אינם תקינים."
+
+#: views/view-import.php:54
+msgid "Error: The source for the import is invalid or could not be accessed."
+msgstr "שגיאה: שם קבץ המקור ליבוא אינו תקין או שלא ניתן לגשת אל הקובץ."
+
+#: views/view-import.php:53
+msgid "Error: You selected to replace or append to an existing table, but did not select a table."
+msgstr "שגיאה: בחרת להחליף טבלה קיימת אבל לא ציינת איזו טבלה."
+
+#: views/view-import.php:52
+msgid "Error: The data in the ZIP file is invalid."
+msgstr "שגיאה: נתוני קובץ ה- ZIP אינם תקינים."
+
+#: views/view-import.php:51
+msgid "Error: The ZIP file could not be opened."
+msgstr "שגיאה: לא ניתן לפתוח קבץ ZIP.."
+
+#: views/view-import.php:50
+msgid "Error: Import of ZIP files is not available on this server."
+msgstr "שגיאה: יבוא קבצי ZIP אינו אפשרי על שרת האחסון הנוכחי."
+
+#: views/view-import.php:49
+msgid "Error: The import failed."
+msgstr "שגיאה: פעולת היבוא נכשלה."
+
+#: views/view-import.php:44 views/view-import.php:56
+msgid "Error: You did not select what to import from WP-Table Reloaded!"
+msgstr "שגיאה: לא בחרת מה לייבא מתוך WP-Table Reloaded!"
+
+#: views/view-export.php:182
+msgid "Note: Support for ZIP file creation seems not to be available on this server."
+msgstr "לתשומת לבך: השרת אינו תומך ביצירת קבצי זיפ. ZIP"
+
+#: views/view-export.php:179
+msgid "(Mandatory if more than one table is selected.)"
+msgstr "(הכרחי אם נבחרו שתי טבלאות או יותר)"
+
+#: views/view-export.php:179
+msgid "Create a ZIP archive."
+msgstr "צור ארכיב ZIP."
+
+#: views/view-export.php:173
+msgid "ZIP file"
+msgstr "קובץ ZIP"
+
+#: views/view-export.php:169
+msgid "(Only needed for CSV export.)"
+msgstr " (CSV נדרש רק ליצוא )"
+
+#: views/view-export.php:160
+msgid "CSV Delimiter"
+msgstr "מפריד CSV"
+
+#: views/view-export.php:147
+msgid "Export Format"
+msgstr "יצוא פורמט"
+
+#: views/view-export.php:141
+msgid "You can select multiple tables by holding down the &#8220;Ctrl&#8221; key (Windows) or the &#8220;Command&#8221; key (Mac)."
+msgstr "ניתן לבחור מספר טבלאות על ידי לחיצה ממושכת על כפתור &#8221;Ctrl&#8220; (חלונות) או כפתור &#8221;Command&#8220; (מק)."
+
+#: views/view-export.php:133 views/view-import.php:213
+msgid "ID %1$s: %2$s"
+msgstr "טבלה מספר %1$s: %2$s"
+
+#: views/view-export.php:110
+msgid "Select all"
+msgstr "בחר הכל"
+
+#: views/view-export.php:107
+msgid "Tables to Export"
+msgstr "טבלאות לייצוא"
+
+#: views/view-export.php:89 views/view-list.php:608
+msgid "You should <a href=\"%s\">add</a> or <a href=\"%s\">import</a> a table to get started!"
+msgstr "עלייך <a href=\"%s\">להוסיף</a> או <a href=\"%s\">לייבא</a> טבלה כדי להתחיל!"
+
+#: views/view-export.php:71
+msgid "For the JSON format, the table data and the table options are exported."
+msgstr "ביצוא טבלה בפורמט JSON נתוני הטבלה וגם ההגדרות שלה מיוצאים."
+
+#: views/view-export.php:70
+msgid "Be aware that for the CSV and HTML formats only the table data, but no table options are exported!"
+msgstr "שים לב שבפורמט CSV או HTML רק נתוני הטבלה ולא ההגדרות שלה ניתנים לייצוא."
+
+#: views/view-export.php:68
+msgid "If you choose more than one table, the exported files will automatically be stored in a ZIP archive file."
+msgstr "אם נבחרו שתיים או יותר טבלאות, הקבצים המיוצאים יאוסנו אוטומטית בקובץ ZIP."
+
+#: views/view-export.php:67
+msgid "To export, select the tables and the desired export format."
+msgstr "ליצוא, בחר את הטבלה והפורמט הרצויים."
+
+#: views/view-export.php:64
+msgid "Regularly exporting tables is also recommended as a backup of your data."
+msgstr "יצוא טבלאות בפרקי זמן מחזוריים מומלץ כאמצעי לגיבוי הנתונים."
+
+#: views/view-export.php:63
+msgid "Exporting a table allows you to use it in other programs, like spreadsheets applications."
+msgstr "יצוא טבלה מאפשר לך להשתמש בטבלה בתוכנות נוספות כמו: גליונות אלקטרוניים (לדוגמא, אקסל), מצגות ועוד."
+
+#: views/view-export.php:47
+msgctxt "button"
+msgid "Download Export File"
+msgstr "הורדת קובץ יצוא"
+
+#: views/view-export.php:43 views/view-export.php:46
+msgid "Export Tables"
+msgstr "יצוא טבלאות"
+
+#: views/view-export.php:38
+msgid "Error: The ZIP file could not be created."
+msgstr "שגיאה: לא ניתן ליצור קבץ ZIP.."
+
+#: views/view-export.php:37
+msgid "Error: The internal data of this table is corrupted!"
+msgstr "שגיאה: תוכן הטבלה נהרס."
+
+#: views/view-export.php:36 views/view-list.php:106
+msgid "Error: This table could not be loaded!"
+msgstr "שגיאה: לא ניתן לטעון את הטבלה."
+
+#: views/view-export.php:35
+msgid "Error: The export failed."
+msgstr "שגיאה: פעולת היצוא נכשלה."
+
+#: views/view-editor_button_thickbox.php:386
+msgid "You should add or import a table on the TablePress screens to get started!"
+msgstr "עליך להוסיף או לייבא טבלה על מסכי TablePress כדי להתחיל!"
+
+#: views/view-editor_button_thickbox.php:384 views/view-export.php:88
+#: views/view-list.php:599
+msgid "No tables found."
+msgstr "לא נמצאו טבלאות"
+
+#: views/view-editor_button_thickbox.php:361 views/view-list.php:461
+msgid "(no description)"
+msgstr "(אין תאור)"
+
+#: views/view-editor_button_thickbox.php:285
+msgid "Action"
+msgstr "פעולה"
+
+#: views/view-editor_button_thickbox.php:282 views/view-list.php:320
+msgid "ID"
+msgstr "מספר טבלה"
+
+#: views/view-editor_button_thickbox.php:189 views/view-list.php:213
+msgid "Search Tables"
+msgstr "חיפוש טבלאות"
+
+#: views/view-editor_button_thickbox.php:183 views/view-list.php:205
+msgid "Search results for &#8220;%s&#8221;"
+msgstr " &#8221;%s&#8220; תוצאות חיפוש עבור: "
+
+#: views/view-editor_button_thickbox.php:179
+#: views/view-editor_button_thickbox.php:375
+msgid "Insert Shortcode"
+msgstr "הכנס קוד מקוצר (שורטקוד)"
+
+#: views/view-editor_button_thickbox.php:179
+msgid "Click the &#8220;%1$s&#8221; button for the desired table to automatically insert the<br />corresponding Shortcode (%2$s) into the editor."
+msgstr "בתוכנת העריכה. (%s) לקוד המקוצר <br />כדי שהטבלה המבוקשת תוכנס אוטומטית   &#8221;%s&#8220;  לחץ על כפתור "
+
+#: views/view-editor_button_thickbox.php:177
+msgid "You may insert a table into a post or page here."
+msgstr "כאן תוכל להכניס טבלה לפוסט או עמוד."
+
+#: views/view-editor_button_thickbox.php:177
+msgid "This is a list of all available tables."
+msgstr "רשימת כל הטבלאות הזמינות."
+
+#: views/view-editor_button_thickbox.php:68
+#: views/view-editor_button_thickbox.php:174
+msgid "List of Tables"
+msgstr "רשימת טבלאות"
+
+#: views/view-edit.php:684
+msgid "Did you know? You can drag and drop rows and columns via the row number and the column title. And the arrows next to the column title can be used for sorting."
+msgstr "הידעת? ניתן לגרור ולהניח שורות ועמודות באמצעות מספר השורה או כותרת העמודה. החץ ליד כותרת העמודה מיועד לביצוע מיון."
+
+#: views/view-edit.php:683
+msgid "TablePress Feature: Moving rows and columns"
+msgstr "תכונת TablePress: ניתן להעביר שורות ועמודות"
+
+#: views/view-edit.php:672
+msgid "To insert the table into a page, post, or text widget, copy the Shortcode %s and paste it at the desired place in the editor."
+msgstr "כדי להכניס טבלה לעמוד, פוסט או ווידג'ט מסוג טקסט יש להעתיק את הקוד המקוצר (Shortcode) %s ולהדביק אותו במקום הרצוי בעזרת תוכנת העריכה."
+
+#: views/view-edit.php:669
+msgid "For example, you can insert things like text, images, or links into the table, or change the used table features. You can also insert, delete, move, hide, and swap columns and rows."
+msgstr "לדוגמא, ניתן להוסיף טקסט, תמונות, קישורים או לשנות את הגדרות הטבלה. ניתן גם להוסיף, למחוק, להעביר, להסתיר או להחליף שורות או עמודות."
+
+#: views/view-edit.php:668
+msgid "On this screen, you can edit the content and structure of the table with the ID %s."
+msgstr "במסך זה ניתן לערוך את תוכן ומבנה טבלה מספר %s."
+
+#: views/view-edit.php:650
+msgid "Back to the List of Tables"
+msgstr "חזרה לרשימת הטבלאות"
+
+#: views/view-edit.php:645
+msgid "Please see the <a href=\"%s\">TablePress FAQ page</a> for further instructions."
+msgstr "למידע נוסף נא קרא <a href=\"%s\">הכרזת גירסה</a> להנחיות נוספות."
+
+#: views/view-edit.php:643
+msgid "Because of this error, the table can not be edited at this time, to prevent possible further data loss."
+msgstr "עקב התקלה, הטבלה לא נחסמה לעדכונים כדי למנוע אובדן מידע בהמשך."
+
+#: views/view-edit.php:636
+msgid "The internal data of table &#8220;%1$s&#8221; (ID %2$s) is corrupted."
+msgstr "המידע הפנימי של טבלה &#8220;%1$s&#8221; (מזהה %2$s) פגום."
+
+#: views/view-edit.php:633
+msgid "Attention: Unfortunately, an error occurred."
+msgstr "לתשומת ליבך, קרתה תקלה."
+
+#: views/view-edit.php:615
+msgid "For advanced use only."
+msgstr "לשימוש מתקדם בלבד."
+
+#: views/view-edit.php:614
+msgid "Custom Commands"
+msgstr "פקודות מותאמות אישית"
+
+#: views/view-edit.php:608
+msgid "Enable horizontal scrolling, to make viewing tables with many columns easier."
+msgstr "אפשר גלילה רוחבית כך שניתן יהיה לצפות בטבלאות עם עמודות רבות."
+
+#: views/view-edit.php:607
+msgid "Horizontal Scrolling"
+msgstr "גלילה רוחבית"
+
+#: views/view-edit.php:604
+msgid "Enable the table information display, with information about the currently visible data, like the number of rows."
+msgstr "אפשר הצגת מידע על הטבלה, עם מידע על המידע שמוצג על המסך, כמו לדוגמא מספר השורות."
+
+#: views/view-edit.php:603
+msgid "Info"
+msgstr "מידע"
+
+#: views/view-edit.php:600
+msgid "Allow the visitor to change the number of rows shown when using pagination."
+msgstr "לאפשר לגולש לשנות את מספר השורות המוצגות באמצעות עימוד."
+
+#: views/view-edit.php:599
+msgid "Pagination Length Change"
+msgstr "אורך העמודים השתנה"
+
+#: views/view-edit.php:596
+msgid "Show %s rows per page."
+msgstr "שורות בעמוד. %s הצג "
+
+#: views/view-edit.php:595
+msgid "Enable pagination of the table (viewing only a certain number of rows at a time) by the visitor."
+msgstr ".אפשר לגולש שבירה לעמודים של הטבלה (בכל עמוד רק מספר שורות מהטבלה)"
+
+#: views/view-edit.php:594
+msgid "Pagination"
+msgstr "עימוד"
+
+#: views/view-edit.php:591
+msgid "Enable the visitor to filter or search the table. Only rows with the search word in them are shown."
+msgstr "אפשר לגולש לסנן או לחפש טבלה. יוצגו רק שורות המכילות את ביטוי החיפוש "
+
+#: views/view-edit.php:590
+msgid "Search/Filtering"
+msgstr "חיפוש/סינון"
+
+#: views/view-edit.php:587
+msgid "Enable sorting of the table by the visitor."
+msgstr "אפשר לגולש למיין את הטבלה"
+
+#: views/view-edit.php:586
+msgid "Sorting"
+msgstr "מיון"
+
+#: views/view-edit.php:583
+msgid "Use the following features of the DataTables JavaScript library with this table:"
+msgstr "בטבלה זו, השתמש בתכונות הבאות של ספריית DataTables JavaScript:"
+
+#: views/view-edit.php:582
+msgid "Use DataTables"
+msgstr " DataTables שימוש "
+
+#: views/view-edit.php:578
+msgid "These features and options are only available, when the &#8220;%1$s&#8221; checkbox in the &#8220;%2$s&#8221; section is checked."
+msgstr "יכולות ואפשרויות אלה זמינות רק כאשר האופציה &#8221;%1$s&#8220; אשר ב-  &#8221;%2$s&#8220;  מסומנת."
+
+#: views/view-edit.php:560
+msgid "This is NOT the place to enter <a href=\"%s\">Custom CSS</a> code!"
+msgstr "אין להכניס כאן קוד <a href=\"%s\">CSS</a>! "
+
+#: views/view-edit.php:560
+msgid "Additional CSS classes for styling purposes can be entered here."
+msgstr "כאן ניתן להוסיף הגדרות CSS נוספות"
+
+#: views/view-edit.php:560
+msgid "This field can only contain letters, numbers, spaces, hyphens (-), and underscores (_)."
+msgstr "השדה יכול להכיל רק אותיות, ספרות, רווחים, מכפים (-) וקווים תחתיים (_)."
+
+#: views/view-edit.php:559
+msgid "Extra CSS Classes"
+msgstr "הגדרות CSS נוספות"
+
+#: views/view-edit.php:556
+msgid "Show the table description %s the table."
+msgstr "הצג תאור הטבלה %s ."
+
+#: views/view-edit.php:549
+msgid "Print Table Description"
+msgstr "הדפס תאור הטבלה"
+
+#: views/view-edit.php:546
+msgid "Show the table name %s the table."
+msgstr "הצג שם הטבלה %s."
+
+#: views/view-edit.php:543 views/view-edit.php:553
+msgid "below"
+msgstr "למטה"
+
+#: views/view-edit.php:542 views/view-edit.php:552
+msgid "above"
+msgstr "מעל"
+
+#: views/view-edit.php:539
+msgid "Print Table Name"
+msgstr "הדפס את שם הטבלה"
+
+#: views/view-edit.php:536
+msgid "Highlight a row while the mouse cursor hovers above it by changing its background color."
+msgstr "השורה תודגש במעבר עכבר מעליה שיתבטא בשינוי הרקע שלה."
+
+#: views/view-edit.php:535
+msgid "Row Hover Highlighting"
+msgstr "הדגשת שורה במעבר עכבר"
+
+#: views/view-edit.php:532
+msgid "The background colors of consecutive rows shall alternate."
+msgstr "צבעי הרקע של שורות עוקבות יתחלפו לסירוגין."
+
+#: views/view-edit.php:531
+msgid "Alternating Row Colors"
+msgstr "צבעי שורות מתחלפים."
+
+#: views/view-edit.php:528
+msgid "The last row of the table is the table footer."
+msgstr "השורה האחרונה בטבלה היא \"שורת כותרת תחתית\" של הטבלה."
+
+#: views/view-edit.php:527
+msgid "Table Foot Row"
+msgstr "שורה התחתית בטבלה"
+
+#: views/view-edit.php:524
+msgid "The first row of the table is the table header."
+msgstr "השורה הראשונה בטבלה היא \"שורת כותרת\" של הטבלה."
+
+#: views/view-edit.php:523 views/view-edit.php:578
+msgid "Table Head Row"
+msgstr "שורת כותרת הטבלה"
+
+#: views/view-edit.php:499
+msgid "OK"
+msgstr "OK"
+
+#: views/view-edit.php:498
+msgid "Cancel"
+msgstr "ביטול"
+
+#: views/view-edit.php:470
+msgid "Delete Table"
+msgstr "מחיקת טבלה"
+
+#: views/view-edit.php:467
+msgid "Export Table"
+msgstr "יצוא טבלה"
+
+#: views/view-edit.php:464
+msgid "Copy Table"
+msgstr "העתק טבלה"
+
+#: views/view-edit.php:462
+msgid "Other Actions"
+msgstr "פעולות אחרות"
+
+#: views/view-edit.php:418
+msgid "To use the Table Manipulation features, JavaScript needs to be enabled in your browser."
+msgstr "יש לאפשר הרצת קוד ג'אווהסקיפט כדי שניתן יהי להפעיל את פעולות העריכה על טבלאות."
+
+#: views/view-edit.php:414
+msgid "Add %s column(s)"
+msgstr "עמודות %s הוסף"
+
+#: views/view-edit.php:411 views/view-edit.php:414
+msgid "Add"
+msgstr "הוסף"
+
+#: views/view-edit.php:411
+msgid "Add %s row(s)"
+msgstr "שורות %s הוסף"
+
+#: views/view-edit.php:400 views/view-edit.php:406 views/view-list.php:442
+msgid "Delete"
+msgstr "מחק"
+
+#: views/view-edit.php:399 views/view-edit.php:405
+msgid "Insert"
+msgstr "הוסף"
+
+#: views/view-edit.php:398 views/view-edit.php:404
+msgid "Duplicate"
+msgstr "שכפל"
+
+#: views/view-edit.php:390 views/view-edit.php:403
+msgid "Selected columns"
+msgstr "עמודות נבחרות"
+
+#: views/view-edit.php:387 views/view-edit.php:392
+msgid "Show"
+msgstr "הצג"
+
+#: views/view-edit.php:386 views/view-edit.php:391
+msgid "Hide"
+msgstr "הסתר"
+
+#: views/view-edit.php:385 views/view-edit.php:397
+msgid "Selected rows"
+msgstr "שורות נבחרות"
+
+#: views/view-edit.php:379
+msgid "Be aware that the functions of the DataTables JavaScript library will not work on tables which have combined cells."
+msgstr "לא יפעלו בטבלאות שיש בהן תאים ממוזגים. DataTables JavaScript שים לב שפונקציות של ספריית "
+
+#: views/view-edit.php:378
+msgid "Repeat this to add the keyword to all cells that shall be connected."
+msgstr "חזור על הפעולה כדי להוסיף את מילת המפתח לכל התאים שיהיו מחוברים."
+
+#: views/view-edit.php:377
+msgid "To combine adjacent cells in a column, add the keyword <code>#rowspan#</code> to the cell below the one with the content for the combined cell by using the corresponding button."
+msgstr "כדי למזג תאים צמודים בעמודה, יש להוסיף מילת קוד <code>#rowspan#</code> אל התא מתחת לתא עם התוכן למיזוג באמצעות הכפתור המתאים."
+
+#: views/view-edit.php:376
+msgid "To combine adjacent cells in a row, add the keyword <code>#colspan#</code> to the cell to the right of the one with the content for the combined cell by using the corresponding button."
+msgstr "כדי למזג תאים צמודים בשורה, יש להוסיף מילת קוד <code>#colspan#</code> אל התא מימין לתא עם התוכן למיזוג באמצעות הכפתור המתאים."
+
+#: views/view-edit.php:375
+msgid "Combining consecutive cells within the same column is called &#8220;rowspanning&#8221;."
+msgstr "&#8221;rowspanning&#8220;. מיזוג תאים שכנים באותה עמודה נקרא "
+
+#: views/view-edit.php:374
+msgid "Combining consecutive cells within the same row is called &#8220;colspanning&#8221;."
+msgstr "&#8221;rowspanning&#8220;. מיזוג תאים שכנים באותה שורה נקרא "
+
+#: views/view-edit.php:373
+msgid "Table cells can span across more than one column or row."
+msgstr "תאים בטבלה המתפרשים על יותר משורה או עמודה."
+
+#: views/view-edit.php:371
+msgid "Help on combining cells"
+msgstr "עזרה במיזוג תאים"
+
+#: views/view-edit.php:371
+msgid "?"
+msgstr "?"
+
+#: views/view-edit.php:370
+msgid "in a row (colspan)"
+msgstr "בשורה (colspan)"
+
+#: views/view-edit.php:369
+msgid "in a column (rowspan)"
+msgstr "בעמודה (rowspan)"
+
+#: views/view-edit.php:368
+msgid "Combine cells"
+msgstr "תאים ממוזגים"
+
+#: views/view-edit.php:365
+msgid "Advanced Editor"
+msgstr "תוכנת עריכה מתקדמת"
+
+#: views/view-edit.php:364
+msgid "Insert Image"
+msgstr "הכנס תמונה"
+
+#: views/view-edit.php:363
+msgid "Insert Link"
+msgstr "הכנס קישור "
+
+#: views/view-edit.php:231
+msgid "%1$s by %2$s"
+msgstr "%1$s על ידי %2$s"
+
+#: views/view-edit.php:230 views/view-list.php:325
+msgid "Last Modified"
+msgstr "עודכן לאחרונה"
+
+#: views/view-edit.php:217
+msgid "Shortcode"
+msgstr "קוד מקוצר (שורטקוד)"
+
+#: views/view-edit.php:216
+msgid "The Table ID can only consist of letters, numbers, hyphens (-), and underscores (_)."
+msgstr "מספר מזהה לטבלה יכול להכיל אותיות, ספרות, מכף (-) או קו תחתי (_)."
+
+#: views/view-edit.php:213
+msgid "Table ID"
+msgstr "מספר הטבלה"
+
+#: views/view-edit.php:157
+msgid "Features of the DataTables JavaScript library"
+msgstr "תכונות של ספריית ג'אווהסקריפט DataTables "
+
+#: views/view-edit.php:156 views/view-edit.php:578
+msgid "Table Options"
+msgstr "אפשרויות הטבלה"
+
+#: views/view-edit.php:155
+msgid "Table Manipulation"
+msgstr "פעולות על הטבלה"
+
+#: views/view-edit.php:154
+msgid "Table Content"
+msgstr "תוכן הטבלה"
+
+#: views/view-edit.php:153
+msgid "Table Information"
+msgstr "מידע על הטבלה"
+
+#: views/view-edit.php:145
+msgid "You can not connect cells out of the table foot row!"
+msgstr "לא ניתן לקשור תאים מחוץ לשורה התחתית בטבלה!"
+
+#: views/view-edit.php:144
+msgid "You can not connect cells into the table head row!"
+msgstr "לא ניתן לקשור תאים בשורת כותרת הטבלה!"
+
+#: views/view-edit.php:143
+msgid "You can not add colspan to the first column!"
+msgstr "לא ניתן להוסיף הוראת מיזוג לתא העליון בעמודה!"
+
+#: views/view-edit.php:142
+msgid "You can not add rowspan to the first row!"
+msgstr "לא ניתן להוסיף הוראת מיזוג לתא הראשון בשורה."
+
+#: views/view-edit.php:141 views/view-edit.php:285
+msgid "Sort descending"
+msgstr "מיון יורד"
+
+#: views/view-edit.php:140 views/view-edit.php:285
+msgid "Sort ascending"
+msgstr "מיון עולה"
+
+#: views/view-edit.php:139
+msgid "The entered value in the field &#8220;Pagination Entries&#8221; is not a number."
+msgstr "הערך שסופק בשדה  &#8220;מספר השורות לעימוד&#8221; אינו מספר."
+
+#: views/view-edit.php:138
+msgid "The entered value in the field &#8220;Extra CSS classes&#8221; is invalid."
+msgstr "הערך שסופק בשדה  &#8221;הגדרות CSS נוספות &#8220; אינו מספר."
+
+#: views/view-edit.php:137
+msgid "Do you really want to change the Table ID? All Shortcodes for this table in your pages and posts will have to be adjusted!"
+msgstr "האם אתה בטוח שברצונך לשנות את מספר הזיהוי של הטבלה?  זכור לעדכן את כל ההפניות בעמודים והפוסטים לערך "
+
+#: views/view-edit.php:136
+msgid "The Table ID &#8220;0&#8221; is not supported. Please enter a different Table ID!"
+msgstr "טבלה מספר &#8220;0&#8221; אינה נתמכת. נא לספק מספר טבלה חלופי."
+
+#: views/view-edit.php:135
+msgid "The Table ID field can not be empty. Please enter a Table ID!"
+msgstr "שדה מספר הטבלה לא יכול להיות ריק."
+
+#: views/view-edit.php:134
+msgid "Changes are being saved..."
+msgstr "השינויים נשמרים..."
+
+#: views/view-edit.php:133
+msgid "Saving failed"
+msgstr "השמירה נכשלה"
+
+#: views/view-edit.php:132
+msgid "Saving successful"
+msgstr "השמירה הצליחה"
+
+#: views/view-edit.php:131
+msgid "The Table Preview could not be loaded."
+msgstr "לא ניתן לתת תצוגה מקדימה של הטבלה."
+
+#: views/view-edit.php:130
+msgid "The Table Preview is being loaded..."
+msgstr "הטבלה לתצוגה מקדימה נטענת..."
+
+#: views/view-edit.php:129
+msgid "The changes to this table were not saved yet and will be lost if you navigate away from this page."
+msgstr "השינויים בטבלה לא נשמרו עדיין והם יאבדו אם תעזוב את דף זה."
+
+#: views/view-edit.php:128 views/view-edit.php:182
+msgid "Insert into Table"
+msgstr "הכנס לתוך טבלה"
+
+#: views/view-edit.php:128
+msgid "Click the &#8220;%s&#8221; button to insert the image."
+msgstr "לחץ על כפתור  &#8221;%s&#8220; להכנסת התמונה אל התא הנבחר."
+
+#: views/view-edit.php:127
+msgid "The Media Library will open, where you can select or upload the desired image or enter the image URL."
+msgstr "ספריית המדיה תפתח ואז ניתן לבחור בתמונה הרצויה או ניתן לבחור תמונה מהאינטרנט באמצעות כתובת URL."
+
+#: views/view-edit.php:126
+msgid "Please click into the cell that you want to add an image to."
+msgstr "נא לבחור (להקליק) על התא שברצונך להוסיף אליו תמונה"
+
+#: views/view-edit.php:125
+msgid "You can then enter the Link URL and Text or choose an existing page or post."
+msgstr "ניתן להכניס קישור URL וטקסט או לבחור עמוד או פוסט קיימים."
+
+#: views/view-edit.php:124
+msgid "Please click into the cell that you want to add a link to."
+msgstr "נא לבחור (להקליק) על התא שברצונך להוסיף אליו קישור"
+
+#: views/view-edit.php:123
+msgid "Do you want to proceed and automatically turn off the usage of DataTables for this table?"
+msgstr "האם ברצונך להמשיך ולכבות באופן אוטומטי את השימוש ב- DataTables עבור טבלה זו?"
+
+#: views/view-edit.php:122
+msgid "Unfortunately, these can not be used in tables with combined cells."
+msgstr "לצערינו זה לא נתמך ולא ניתן להשתמש בטבלאות עם תאים ממוזגים."
+
+#: views/view-edit.php:121
+msgid "Attention: You have enabled the usage of the DataTables JavaScript library for features like sorting, search, or pagination."
+msgstr "שים לב: אפשרת את השימוש בספריית ג'אווהסקריפט DataTables לטובת תכונות כמו מיון, חיפוש ועימוד."
+
+#: views/view-edit.php:120
+msgid "To combine cells within a row, click into the cell to the right of the cell that has the content the combined cells shall have."
+msgstr "כדי למזג תאים בשורה, יש להקליק על התא שמימין לתא המכיל את התוכן למיזוג."
+
+#: views/view-edit.php:119
+msgid "To combine cells within a column, click into the cell below the cell that has the content the combined cells shall have."
+msgstr "כדי למזג תאים בעמודה, יש להקליק על התא שמתחת לתא המכיל את התוכן למיזוג. "
+
+#: views/view-edit.php:118
+msgid "Please click into the cell that you want to edit using the &#8220;Advanced Editor&#8221;."
+msgstr "&#8221;העורך המתקדם&#8220;.  נא לבחור (להקליק) על התא שברצונך ללערוך באמצעות "
+
+#: views/view-edit.php:116 views/view-edit.php:117
+msgid "Do you really want to delete the selected column?"
+msgid_plural "Do you really want to delete the selected columns?"
+msgstr[0] "האם באמת הנך רוצה למחוק את העמודה המסומנת?"
+msgstr[1] "האם באמת הנך רוצה למחוק את העמודות המסומנות?"
+
+#: views/view-edit.php:114 views/view-edit.php:115
+msgid "Do you really want to delete the selected row?"
+msgid_plural "Do you really want to delete the selected rows?"
+msgstr[0] "האם באמת הנך רוצה למחוק את השורה המסומנת?"
+msgstr[1] "האם באמת הנך רוצה למחוק את השורות המסומנות?"
+
+#: views/view-edit.php:113
+msgid "The value for the number of columns is invalid!"
+msgstr "הערך למספר העמודות אינו תקין!"
+
+#: views/view-edit.php:112
+msgid "The value for the number of rows is invalid!"
+msgstr "הערך למספר השורות אינו תקין!"
+
+#: views/view-edit.php:111
+msgid "You did not select any columns!"
+msgstr "לא נבחרו עמודות!"
+
+#: views/view-edit.php:110
+msgid "You did not select any rows!"
+msgstr "לא נבחרו שורות!"
+
+#: views/view-edit.php:109
+msgid "You can not delete all table columns!"
+msgstr "לא ניתן למחוק את כל עמודות הטבלה!"
+
+#: views/view-edit.php:108
+msgid "You can not delete all table rows!"
+msgstr "לא ניתן למחוק את כל שורות הטבלה!"
+
+#: views/view-edit.php:56
+msgid "The table was saved successfully, but the table ID could not be changed!"
+msgstr "הטבלה נשמרה בהצלחה אבל מספר הטבלה לא השתנה!"
+
+#: views/view-edit.php:55
+msgid "The table was saved successfully, and the table ID was changed."
+msgstr "הטבלה נשמרה בהצלחה ומספר הטבלה השתנה."
+
+#: views/view-edit.php:54 views/view-list.php:100
+msgid "Error: The table could not be deleted."
+msgstr "שגיאה: לא ניתן למחוק את הטבלה."
+
+#: views/view-edit.php:53 views/view-list.php:101
+msgid "Error: The table could not be saved."
+msgstr "שגיאה: לא ניתן לשמור את הטבלה."
+
+#: views/view-edit.php:52
+msgid "The table was imported successfully from WP-Table Reloaded."
+msgstr "הטבלה מתוסף  WP-Table Reloaded יובאה בהצלחה."
+
+#: views/view-edit.php:51
+msgid "The table was imported successfully."
+msgstr "הטבלה יובאה בהצלחה"
+
+#: views/view-edit.php:50
+msgid "You are now seeing the copied table, which has the table ID &#8220;%s&#8221;."
+msgstr "הינך צופה בהעתק טבלה שמספר המזהה שלה הוא &#8220;%s&#8221;."
+
+#: views/view-edit.php:50 views/view-list.php:102 views/view-list.php:103
+msgid "The table was copied successfully."
+msgid_plural "The tables were copied successfully."
+msgstr[0] "הטבלה הועתקה בהצלחה."
+msgstr[1] "הטבלאות הועתקו בהצלחה."
+
+#: views/view-edit.php:49
+msgid "The table was added successfully."
+msgstr "הטבלה נוספה בהצלחה."
+
+#: views/view-edit.php:48
+msgid "The table was saved successfully."
+msgstr "הטבלה נשמרה בהצלחה"
+
+#: views/view-add.php:94
+msgid "The number of columns in your table."
+msgstr "מספר העמודות בטבלה."
+
+#: views/view-add.php:92
+msgid "Number of Columns"
+msgstr "מספר העמודות"
+
+#: views/view-add.php:89
+msgid "The number of rows in your table."
+msgstr "מספר השורות בטבלה."
+
+#: views/view-add.php:88 views/view-add.php:93 views/view-edit.php:411
+#: views/view-edit.php:414
+msgid "This field must contain a positive number."
+msgstr "שדה זה חייב להכיל ערך מספר חיובי."
+
+#: views/view-add.php:87
+msgid "Number of Rows"
+msgstr "מספר השורות"
+
+#: views/view-add.php:84
+msgid "A description of the contents of your table."
+msgstr "תאור תוכן הטבלה."
+
+#: views/view-add.php:83
+msgid "Enter Description here"
+msgstr "הכנס תאור כאן"
+
+#: views/view-add.php:82
+msgid "(optional)"
+msgstr "(אופציונאלי)"
+
+#: views/view-add.php:82 views/view-edit.php:226
+#: views/view-editor_button_thickbox.php:284 views/view-list.php:322
+msgid "Description"
+msgstr "תאור"
+
+#: views/view-add.php:79
+msgid "The name or title of your table."
+msgstr "שם או כותרת הטבלה."
+
+#: views/view-add.php:78
+msgid "Enter Table Name here"
+msgstr "הכנס  את שם הטבלה כאן"
+
+#: views/view-add.php:77 views/view-edit.php:222
+#: views/view-editor_button_thickbox.php:283 views/view-list.php:321
+msgid "Table Name"
+msgstr "שם הטבלה"
+
+#: views/view-add.php:60
+msgid "You can always change the name, description, and size of your table later."
+msgstr "תמיד תוכל לשנות שם, תאור וגודל של הטבלה."
+
+#: views/view-add.php:57
+msgid "To add a new table, enter its name, a description (optional), and the number of rows and columns into the form below."
+msgstr "להוספת טבלה חדשה, יש לתת לה שם, תאור (לא הכרחי אבל כדאי) ומספר השורות והעמודות בשדות בעמוד זה."
+
+#: views/view-add.php:42
+msgid "Add Table"
+msgstr "הוסף טבלה"
+
+#: views/view-add.php:37
+msgid "Error: The table could not be added."
+msgstr "שגיאה: לא ניתן להוסיף את הטבלה."
+
+#: views/view-about.php:212
+msgid "all donors, contributors, supporters, reviewers, and users of the plugin!"
+msgstr "כל התורמים, התומכים, המבקרים, והמשתמשים בתוסף!"
+
+#: views/view-about.php:209
+msgid "Special Thanks go to:"
+msgstr "תודות מיוחדות ל:"
+
+#: views/view-about.php:173
+msgid "Please provide this information in bug reports and support requests."
+msgstr "נא לספק את המידע הנ\"ל בכל דיווח על באג או בבקשת עזרה."
+
+#: views/view-about.php:156
+msgid "If you do not find an answer there, please <a href=\"%s\">open a new thread</a> in the WordPress Support Forums."
+msgstr "אם אינך מוצא תשובה שם, בבקשה <a href=\"%s\">פתח נתיב תמיכה חדש</a> בפורום התמיכה של וורדפרס."
+
+#: views/view-about.php:152
+msgid "<a href=\"%s\">Support</a> is provided through the <a href=\"%s\">WordPress Support Forums</a>."
+msgstr "<a href=\"%s\">תמיכה</a> ניתן למצוא <a href=\"%s\">בפורום התמיכה של וורדפרס</a>."
+
+#: views/view-about.php:136
+msgid "Donations and good ratings encourage me to further develop the plugin and to provide countless hours of support. Any amount is appreciated! Thanks!"
+msgstr "תרומות וציוני דרוג גבוהים יעודדו אותי להמשיך ולפתח את התוסף ולתרום שעות רבות מספור לתמיכה. כל סכום יתקבל בברכה! תודה!"
+
+#: views/view-about.php:134
+msgid "Please rate and review the plugin in the <a href=\"%s\">WordPress Plugin Directory</a>."
+msgstr "נא דרג וכתוב על התוסף <a href=\"%s\"> במאגר התוספים של וורדפרס. </a>."
+
+#: views/view-about.php:133
+msgid "If you like the plugin, <a href=\"%s\"><strong>giving a donation</strong></a> is recommended."
+msgstr "אם התוסף מוצא חן בעינייך אזי מומלץ <a href=\"%s\"><strong>להרים תרומה</strong></a>."
+
+#: views/view-about.php:131
+msgid "It is licensed as Free Software under GNU General Public License 2 (GPL 2)."
+msgstr "רשיון לשימוש חופשי בתוכנה בהתאם לרשיון הציבורי הכללי של גנו 2 (GPL 2)."
+
+#: views/view-about.php:130
+msgid "This plugin was written and developed by <a href=\"%s\">Tobias Bäthge</a>."
+msgstr "התוסף פותח ע\"י <a href=\"%s\">Tobias Bäthge</a>."
+
+#: views/view-about.php:97
+msgid "Please see the <a href=\"%s\">documentation</a> for a list of these selectors and for styling examples."
+msgstr "לרשימת הסלקטורים ודוגמאות לעיצוב, נא ראה <a href=\"%s\">התיעוד</a> "
+
+#: views/view-about.php:96
+msgid "For this, each table is given certain CSS classes that can be used as CSS selectors."
+msgstr "לשם כך, לכל טבלה מוצמדת הגדרת CSS אשר ניתן לפנות אליה באמצעות סלקטורים."
+
+#: views/view-about.php:95
+msgid "The plugin ships with default CSS stylesheets, which can be customized with own code or replaced with other stylesheets."
+msgstr "התוסף מסופק עם קבצי CSS (כברירת מחדל), אשר ניתן להתאימם או להחליפם בקוד שמתאים לעיצוב שלך."
+
+#: views/view-about.php:94
+msgid "Tables can be styled by changing and adding CSS commands."
+msgstr "ניתן לעצב טבלאות ע\"י הגדרות CSS."
+
+#: views/view-about.php:91 views/view-list.php:190
+msgid "You can also click the &#8220;%s&#8221; button in the editor toolbar to select and insert a table."
+msgstr "ביכולתך להקליק על כפתור &#8221;%s&#8220; בתוכנת העריכה ולבחור הוספת טבלה."
+
+#: views/view-about.php:90 views/view-list.php:188
+msgid "To insert a table into a page, post, or text widget, copy its Shortcode %s and paste it at the desired place in the editor."
+msgstr "כדי להכניס טבלה לעמוד, פוסט או ווידג'ט מסוג טקסט יש להעתיק את הקוד המקוצר (Shortcode) %s ולהדביק אותו במקום הרצוי בעזרת תוכנת העריכה.<br />"
+
+#: views/view-about.php:87
+msgid "Those will ask you for the necessary information and and corresponding HTML code will be added to the cell automatically."
+msgstr "בהתאם למידע שיסופק קוד HTML מתאים יוכנס לתא המתאים בטבלה."
+
+#: views/view-about.php:86
+msgid "To easily add a link or an image to a cell, use the provided buttons."
+msgstr "יש להשתמש בכפתורים המתאימים כדי להוסיף לתא קישור או תמונה."
+
+#: views/view-about.php:85
+msgid "Then you can edit your data or change the structure of your table (e.g. by inserting, deleting, moving, or swaping rows or columns or sorting them) and select specific table features like alternating row colors or whether to print the name or description, if you want."
+msgstr "ביכולתך לערוך את הנתונים או לשנות את מבנה הטבלה שלך (כמו להוסיף, למחוק, להעביר או להחליף בין שורות או עמודות או למיין אותן) וגם לבחור תכונות טבלה מיוחדות כמו צבעים מתחלפים לשורות או האם להדפיס את שם הטבלה או התאור שלה."
+
+#: views/view-about.php:82
+msgid "This means that you either let the plugin create an empty table for you or that you load an existing table from either a CSV, HTML, JSON, XLS, or XLSX file."
+msgstr "המשמעות היא שהתוסף ייצור טבלה ריקה עבורך או שתטען טבלה קיימת בפורמט CSV, HTML או JSON."
+
+#: views/view-about.php:81
+msgid "At first, you should add or import a table."
+msgstr "בתחילה עלייך לייבא טבלה."
+
+#: views/view-about.php:65
+msgid "If you want to show your tables anywhere else in your theme, you can use a Template Tag function."
+msgstr "אם ברצונך להציג את הטבלאות במקום אחר בתבנית שלך, ניתן להשתמש בפונקציית תג. (Template Tag function)"
+
+#: views/view-about.php:64
+msgid "You can then show the tables in your posts, on your pages, or in text widgets by using a Shortcode."
+msgstr " ניתן להציג את הטבלה בפוסטים או עמודים שלך או בווידג'טים באמצעות קוד מקוצר."
+
+#: views/view-about.php:63
+msgid "Tables may contain text, numbers and even HTML (e.g. to include images or links)."
+msgstr "טבלאות יכולות להכיל טקסט, מספרים ואפילו HTML (למשל כדי לכלול תמונות או קישורים)"
+
+#: views/view-about.php:62
+msgid "TablePress allows you to create and manage tables in the admin area of WordPress."
+msgstr "TablePress מאפשר ליצור ולנהל טבלאות במסכי הניהול של וורדפרס."
+
+#: views/view-about.php:48
+msgid "Debug and Version Information"
+msgstr "מידע על הגירסה ותקלות"
+
+#: views/view-about.php:47
+msgid "Credits and Thanks"
+msgstr "קרדיט ותודות"
+
+#: views/view-about.php:46
+msgid "Author and License"
+msgstr "יוצר ורשיון"
+
+#: views/view-about.php:45
+msgid "Help and Support"
+msgstr "עזרה ותמיכה"
+
+#: views/view-about.php:44
+msgid "More Information and Documentation"
+msgstr "עוד מידע ותיעוד"
+
+#: views/view-about.php:43
+msgid "Usage"
+msgstr "אופן השימוש בתוסף"
+
+#: views/view-about.php:42
+msgid "Plugin Purpose"
+msgstr "מטרת התוסף"
+
+#: models/model-table.php:523
+msgid "Copy of %s"
+msgstr "%s  העתקה של "
+
+#: models/model-table.php:521 views/view-editor_button_thickbox.php:346
+#: views/view-export.php:131 views/view-import.php:211 views/view-list.php:421
+msgid "(no name)"
+msgstr "(אין שם)"
+
+#: controllers/controller-frontend.php:736 views/view-list.php:504
+msgid "%s ago"
+msgstr "לפני %s"
+
+#: controllers/controller-admin_ajax.php:274 views/view-preview_table.php:65
+msgid "To insert the table into a page, post, or text widget, copy the Shortcode %s and paste it into the editor."
+msgstr "כדי להכניס טבלה לעמוד, פוסט או ווידג'ט מסוג טקסט יש להעתיק את הקוד המקוצר (Shortcode) %s ולהדביק אותו במקום הרצוי בעזרת תוכנת העריכה."
+
+#: controllers/controller-admin_ajax.php:273 views/view-preview_table.php:64
+msgid "The features of the DataTables JavaScript library are also not available or visible in this preview!"
+msgstr "תכונות ספריית ג'אווהסקריפט DataTables  גם הן אינן זמינות או נראות בתצוגה מקדימה זו!"
+
+#: controllers/controller-admin_ajax.php:272 views/view-preview_table.php:64
+msgid "Because of CSS styling in your theme, the table might look different on your page!"
+msgstr "שונות בתבנית שלך. CSS יתכן והטבלה תיראה שונה בעמוד האתר עקב הגדרות"
+
+#: controllers/controller-admin_ajax.php:271 views/view-preview_table.php:64
+msgid "This is a preview of your table."
+msgstr "תצוגה מקדימה של הטבלה."
+
+#: controllers/controller-admin.php:1921 views/view-options.php:184
+#: views/view-options.php:191
+msgid "Uninstall TablePress"
+msgstr "הסרת התקנת TablePress "
+
+#: controllers/controller-admin.php:1919
+msgid "Go to Dashboard"
+msgstr "לך לסרגל הכלים (Dashboard)"
+
+#: controllers/controller-admin.php:1917
+msgid "Go to &#8220;Plugins&#8221; page"
+msgstr "&#8221;%s&#8220; יצוא  "
+
+#: controllers/controller-admin.php:1912
+msgid "You may now also delete your TablePress &#8220;Custom CSS&#8221; files in the <code>wp-content</code> folder."
+msgstr "הינך יכול גם למחוק את &#8221;הגדרות CSS&#8220; של TablePress במחיצת התוסף שנמצאת <code>wp-content/plugins</code>."
+
+#: controllers/controller-admin.php:1910
+msgid "Please also ask him to delete your TablePress &#8220;Custom CSS&#8221; files from the server."
+msgstr "אנא בקש ממנו למחוק את קבצי  &#8221;הגדרות CSS&#8220; של TablePress מהשרת."
+
+#: controllers/controller-admin.php:1907
+msgid "Your TablePress &#8220;Custom CSS&#8221; files have been deleted automatically."
+msgstr "קבצי  &#8221; התאמת CSS &#8220; של TablePress נמחקו בהצלחה."
+
+#: controllers/controller-admin.php:1904
+msgid "You may now manually delete the plugin&#8217;s folder <code>tablepress</code> from the <code>plugins</code> directory on your server or use the &#8220;Delete&#8221; link for TablePress on the WordPress &#8220;Plugins&#8221; page."
+msgstr "אתה יכול למחוק ידנית את מחיצת התוסף <code>tablepress</code> ממחיצת התוספים <code>plugins</code> אשר על השרת שלך או להשתמש בקישור &#8221;Delete&#8220; עבור TablePress שנמצא בעמוד &#8220;התוספים&#8221; של וורדפרס."
+
+#: controllers/controller-admin.php:1902
+msgid "You may now ask the network admin to delete the plugin&#8217;s folder <code>tablepress</code> from the server, if no other site in the network uses it."
+msgstr "ניתן עכשיו לבקש ממנהל הרשת למחוק את מחיצת התוסף <code>tablepress</code> מהשרת,  אם אין אתר אחר ברשת שמשתמש בו."
+
+#: controllers/controller-admin.php:1900
+msgid "All tables, data, and options were deleted."
+msgstr "כל הטבלאות, הנתונים והאופציות נמחקו."
+
+#: controllers/controller-admin.php:1899
+msgid "TablePress was uninstalled successfully."
+msgstr "הסרת התקנה TablePress הסתיימה בהצלחה."
+
+#: controllers/controller-admin.php:1812
+msgid "The table could not be loaded."
+msgstr "לא ניתן היה לטעון את הטבלה"
+
+#: controllers/controller-admin.php:1802 controllers/controller-admin.php:1812
+#: views/view-edit.php:435 views/view-list.php:445
+#: views/view-preview_table.php:53
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+#: controllers/controller-admin.php:1802
+#: controllers/controller-admin_ajax.php:278
+msgid "The preview could not be loaded."
+msgstr "לא ניתן היה לטעון תצוגה מקדימה."
+
+#: controllers/controller-admin.php:1143
+msgid "Imported from Manual Input"
+msgstr "יבוא מקלט ידני"
+
+#: controllers/controller-admin.php:590
+msgid "About TablePress"
+msgstr "אודות TablePress "
+
+#: controllers/controller-admin.php:589 controllers/controller-admin.php:591
+msgid "About"
+msgstr "אודות"
+
+#: controllers/controller-admin.php:582 controllers/controller-admin.php:583
+#: controllers/controller-admin.php:584
+msgid "Plugin Options"
+msgstr "אפשרויות התוסף"
+
+#: controllers/controller-admin.php:577
+msgctxt "navigation bar"
+msgid "Export"
+msgstr "יצוא"
+
+#: controllers/controller-admin.php:575 controllers/controller-admin.php:576
+msgid "Export a Table"
+msgstr "יצוא טבלה"
+
+#: controllers/controller-admin.php:570
+msgctxt "navigation bar"
+msgid "Import"
+msgstr "יבוא"
+
+#: controllers/controller-admin.php:568 controllers/controller-admin.php:569
+msgid "Import a Table"
+msgstr "יבוא טבלה"
+
+#: controllers/controller-admin.php:561
+msgid "Edit Table"
+msgstr "עריכת טבלה"
+
+#: controllers/controller-admin.php:556
+msgid "Add New"
+msgstr "יצירת טבלה חדשה"
+
+#: controllers/controller-admin.php:554 controllers/controller-admin.php:555
+#: views/view-add.php:41
+msgid "Add New Table"
+msgstr "הוסף טבלה חדשה"
+
+#: controllers/controller-admin.php:547 controllers/controller-admin.php:548
+#: controllers/controller-admin.php:549
+msgid "All Tables"
+msgstr "כל הטבלאות"
+
+#: controllers/controller-admin.php:458
+msgctxt "Default CSV delimiter in the translated language (\";\", \",\", or \"tab\")"
+msgid ","
+msgstr ";"
+
+#: controllers/controller-admin.php:360 controllers/controller-admin.php:437
+#: controllers/controller-admin.php:711 controllers/controller-admin.php:780
+#: controllers/controller-admin.php:836 controllers/controller-admin.php:908
+#: controllers/controller-admin.php:948 controllers/controller-admin.php:1051
+#: controllers/controller-admin.php:1063 controllers/controller-admin.php:1694
+#: controllers/controller-admin.php:1721 controllers/controller-admin.php:1762
+#: controllers/controller-admin.php:1806 controllers/controller-admin.php:1853
+#: controllers/controller-admin.php:1881
+msgid "You do not have sufficient permissions to access this page."
+msgstr "אין לך הרשאות גישה לעמוד זה."
+
+#: controllers/controller-admin.php:333
+msgid "Donate"
+msgstr "תרום"
+
+#: controllers/controller-admin.php:333
+msgid "Support TablePress with your donation!"
+msgstr "בעזרת תרומתך  TablePress -תמיכה ב"
+
+#: controllers/controller-admin.php:332
+msgid "Support"
+msgstr "תמיכה"
+
+#: controllers/controller-admin.php:331
+msgid "Documentation"
+msgstr "תיעוד"
+
+#: controllers/controller-admin.php:330
+msgid "FAQ"
+msgstr "שאלות ותשובות"
+
+#: controllers/controller-admin.php:330
+msgid "Frequently Asked Questions"
+msgstr "שאלות נפוצות"
+
+#: controllers/controller-admin.php:315
+msgid "Plugin page"
+msgstr "עמוד התוסף"
+
+#: controllers/controller-admin.php:288
+msgid "TablePress Table"
+msgstr "טבלת TablePress "
+
+#: controllers/controller-admin.php:206 controllers/controller-admin.php:207
+msgid "Insert a Table from TablePress"
+msgstr "TablePress-הכנס לטבלה מ"
+
+#: controllers/controller-admin.php:205 views/view-about.php:91
+#: views/view-list.php:190
+msgid "Table"
+msgstr "טבלה"
+
+#: classes/class-view.php:414 views/view-edit.php:438 views/view-edit.php:439
+#: views/view-options.php:55
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#. #-#-#-#-#  tmp-tablepress.pot (TablePress 1.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: classes/class-view.php:382
+msgid "TablePress"
+msgstr "TablePress"
+
+#: classes/class-view.php:158 classes/class-view.php:159
+msgid "Do you really want to delete this table?"
+msgid_plural "Do you really want to delete these tables?"
+msgstr[0] "האם באמת הנך רוצה למחוק את הטבלה המסומנת?"
+msgstr[1] "האם באמת הנך רוצה למחוק את הטבלאות המסומנות?"
+
+#: classes/class-view.php:147 controllers/controller-admin.php:142
+#: views/view-editor_button_thickbox.php:68
+#: views/view-editor_button_thickbox.php:174
+#: views/view-options_custom_css.php:37 views/view-preview_table.php:53
+msgid "%1$s &lsaquo; %2$s"
+msgstr "%1$s &rsaquo; %2$s"
+
+#: classes/class-view.php:112
+msgid "For more information:"
+msgstr "למידע נוסף:"
+
+#: classes/class-view.php:109
+msgid "If you like the plugin, <a href=\"%1$s\"><strong>a donation</strong></a> is recommended."
+msgstr "אם התוסף מוצא חן בעינייך אזי מומלץ <a href=\"%1$s\"><strong>להרים תרומה</strong></a>."
+
+#: classes/class-view.php:108 views/view-about.php:153
+msgid "Before asking for support, please carefully read the <a href=\"%s\">Frequently Asked Questions</a>, where you will find answers to the most common questions, and search through the forums."
+msgstr "בטרם תפנו בבקשת תמיכה, אנא קראו בקפידה <a href=\"%s\">רשימת שאלות נפוצות</a>, שם תמצאו תשובות למרבית השאלות ובצעו חיפוש בפורומים לבעיה שמעסיקה אתכם."
+
+#: classes/class-view.php:107
+msgid "<a href=\"%1$s\">Support</a> is provided through the <a href=\"%2$s\">WordPress Support Forums</a>."
+msgstr "<a href=\"%2$s\">.וורדפרס פורום תמיכה</a>ניתנת באמצעות <a href=\"%1$s\">תמיכה</a>  "
+
+#: classes/class-view.php:106 views/view-about.php:114
+msgid "For technical information, please see the <a href=\"%s\">documentation</a>."
+msgstr "מידע טכני ניתן למצוא <a href=\"%s\">בתיעוד</a>."
+
+#: classes/class-view.php:103
+msgid "TablePress Help"
+msgstr "TablePress עזרה"
+
+#: classes/class-render.php:410 views/view-list.php:432
+msgid "Edit"
+msgstr "עריכה"
+
+#: classes/class-render.php:272
+msgid "<!-- The table with the ID %s is empty! -->"
+msgstr "<!-- הטבלה מספר %s ריקה -->"
+
+#: classes/class-import.php:189 classes/class-import.php:277
+#: classes/class-import.php:378
+msgid "The imported file contains errors:"
+msgstr "הקובץ המיובא מכיל שגיאות:"
+
+#: classes/class-import.php:86
+msgid "XLSX - Microsoft Excel 2007-2013 (experimental)"
+msgstr "XLSX - מיקרוסופט אקסל 2007-2013 (נסיוני)"
+
+#: classes/class-import.php:85
+msgid "XLS - Microsoft Excel 97-2003 (experimental)"
+msgstr "XLS - מיקרוסופט אקסל 97-2003 (נסיוני)"
+
+#: classes/class-export.php:62
+msgid "\\t (tabulator)"
+msgstr "\\t (טאב)"
+
+#: classes/class-export.php:61
+msgid ", (comma)"
+msgstr ", (פסיק)"
+
+#: classes/class-export.php:60
+msgid "; (semicolon)"
+msgstr "; (נקודה פסיק)"
+
+#: classes/class-export.php:57 classes/class-import.php:84
+msgid "JSON - JavaScript Object Notation"
+msgstr "JSON - JavaScript Object Notation"
+
+#: classes/class-export.php:56 classes/class-import.php:82
+msgid "HTML - Hypertext Markup Language"
+msgstr "HTML - Hypertext Markup Language"
+
+#: classes/class-export.php:55 classes/class-import.php:80
+msgid "CSV - Character-Separated Values"
+msgstr " ערכים מופרדים בפסיק CSV."
+
+#: classes/class-admin-page-helper.php:80
+msgid "Support the plugin with your <a href=\"%s\">donation</a>!"
+msgstr " תמוך בתוסף באמצעות <a href=\"%s\">תרומה</a>! "

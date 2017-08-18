@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Betheme Child
+ Theme URI:    http://example.com/twenty-fourteen-child/
+ Description:  Betheme Child Theme
+ Author:       Felipe Echeverri
+ Author URI:   http://www.pcfklovers.com.co
+ Template:     betheme
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  betheme-child
+*/
+@import url("../betheme/style.css");
+
+/* =Aquí empieza la personalización de tu tema
+-------------------------------------------------------------- */

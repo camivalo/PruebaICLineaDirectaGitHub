@@ -1,0 +1,257 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Romanian
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-10 07:54:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: duplicate-post-options.php:335
+msgid "You can also use the template tag duplicate_post_clone_post_link( $link, $before, $after, $id ). More info <a href=\"%s\">here</a>"
+msgstr "De asemenea, poți utiliza tag-ul șablonului duplicate_post_clone_post_link( $link, $before, $after, $id ). Mai multe informații <a href=\"%s\">aici</a>"
+
+#: duplicate-post-options.php:313 duplicate-post-options.php:334
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements"
+msgstr "Afișarea legăturilor pentru tipuri de articole personalizate, înregistrate de teme sau module, depinde de utilizarea elementelor standard de WordPress UI de către aceste teme sau module"
+
+#: duplicate-post-options.php:312
+msgid "Select the post types you want the plugin to be enabled"
+msgstr "Selectează tipurile de articol pentru care vrei ca modulul să fie activat"
+
+#: duplicate-post-options.php:303
+msgid "Enable for these post types"
+msgstr "Activează pentru aceste tipuri de articol"
+
+#: duplicate-post-options.php:297
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors"
+msgstr "Parolele și conținuturile articolelor protejate prin parolă pot deveni vizibile pentru utilizatorii nedoriți și vizitatori"
+
+#: duplicate-post-options.php:263
+msgid "Show/hide private taxonomies"
+msgstr "Arată/ascunde taxonomiile private"
+
+#: duplicate-post-options.php:256
+msgid "Add <code>_thumbnail_id</code> to prevent featured images to be copied"
+msgstr "Adaugă <code>_thumbnail_id</code> pentru a preveni copierea imaginilor reprezentative"
+
+#: duplicate-post-options.php:245
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Adaugă acest număr la ordinea inițială din meniu (gol sau zero pentru păstrarea valorii)"
+
+#: duplicate-post-options.php:240
+msgid "Increase menu order by"
+msgstr "Crește ordinea din meniu prin"
+
+#: duplicate-post-options.php:215
+msgid "except pingbacks and trackbacks"
+msgstr "cu excepția pingback-urilor și trackback-urilor"
+
+#: duplicate-post-options.php:215
+msgid "Comments"
+msgstr "Comentarii"
+
+#: duplicate-post-options.php:212
+msgid "Children"
+msgstr "Copii"
+
+#: duplicate-post-options.php:209
+msgid "Attachments"
+msgstr "Atașamente"
+
+#: duplicate-post-options.php:206
+msgid "Password"
+msgstr "Parolă"
+
+#: duplicate-post-options.php:203
+msgid "Content"
+msgstr "Conținut"
+
+#: duplicate-post-options.php:200
+msgid "Excerpt"
+msgstr "Rezumat"
+
+#: duplicate-post-options.php:197
+msgid "Slug"
+msgstr "Descriptor"
+
+#: duplicate-post-options.php:194
+msgid "Status"
+msgstr "Stare"
+
+#: duplicate-post-options.php:191
+msgid "Date"
+msgstr "Dată"
+
+#: duplicate-post-options.php:188
+msgid "Title"
+msgstr "Titlu"
+
+#: duplicate-post-options.php:184
+msgid "Post/page elements to copy"
+msgstr "Elementele articolului/paginii de copiat"
+
+#: duplicate-post-options.php:176
+msgid "Display"
+msgstr "Afișare"
+
+#: duplicate-post-options.php:174
+msgid "Permissions"
+msgstr "Permisiuni"
+
+#: duplicate-post-options.php:172
+msgid "What to copy"
+msgstr "Ce să copiezi"
+
+#: duplicate-post-options.php:79
+msgid "FAQ"
+msgstr "Întrebări frecvente"
+
+#: duplicate-post-admin.php:469
+msgid "Untitled"
+msgstr "Fără titlu"
+
+#: duplicate-post-admin.php:452
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Funcționalitățile de copiere pentru acest tip de articol nu sunt activate în pagina de opțiuni"
+
+#: duplicate-post-admin.php:150
+msgid "Dismiss this notice."
+msgstr "Ignoră această notă."
+
+#: duplicate-post-admin.php:148
+msgid "<strong>Duplicate Post has been greatly redesigned in its options page.</strong> Please <a href=\"%s\">review the settings</a> to make sure it works as you expect."
+msgstr "<strong>Duplicare articol a fost extensiv reproiectat în pagina sa de opțiuni.</strong> Te rog <a href=\"%s\">examinează setările</a> pentru a te asigura că funcționează conform așteptărilor."
+
+#. Author URI of the plugin/theme
+msgid "http://lopo.it"
+msgstr "http://lopo.it"
+
+#. Author of the plugin/theme
+msgid "Enrico Battocchi"
+msgstr "Enrico Battocchi"
+
+#. Description of the plugin/theme
+msgid "Clone posts and pages."
+msgstr "Clonare articole și pagini."
+
+#. Plugin URI of the plugin/theme
+msgid "http://lopo.it/duplicate-post-plugin/"
+msgstr "http://lopo.it/duplicate-post-plugin/"
+
+#: duplicate-post.php:49
+msgid "Settings"
+msgstr "Setări"
+
+#: duplicate-post-options.php:343
+msgid "Save Changes"
+msgstr "Salvează modificările"
+
+#: duplicate-post-options.php:330
+msgid "Admin bar"
+msgstr "Bară de administrare"
+
+#: duplicate-post-options.php:328
+msgid "Edit screen"
+msgstr "Ecran de editare"
+
+#: duplicate-post-options.php:326
+msgid "Post list"
+msgstr "Listă articole"
+
+#: duplicate-post-options.php:322
+msgid "Show links in"
+msgstr "Arată legături în"
+
+#: duplicate-post-options.php:296
+msgid "Warning: users will be able to copy all posts, even those of other users"
+msgstr "Avertizare: utilizatorii vor putea să copieze toate articolele, chiar și cele ale altor utilizatori"
+
+#: duplicate-post-options.php:286
+msgid "Roles allowed to copy"
+msgstr "Rolurile permise pentru copie"
+
+#: duplicate-post-options.php:235
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Sufixul de adăugat după titlu, de exemplu \"(dup)\" (gol pentru niciun sufix)"
+
+#: duplicate-post-options.php:230
+msgid "Title suffix"
+msgstr "Titlu sufix"
+
+#: duplicate-post-options.php:225
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Prefixul de adăugat înainte de titlu, de exemplu \"Copie a \" (gol pentru niciun prefix)"
+
+#: duplicate-post-options.php:220
+msgid "Title prefix"
+msgstr "Prefix titlu"
+
+#: duplicate-post-options.php:276
+msgid "Select the taxonomies you don't want to be copied"
+msgstr "Selectează taxonomiile care nu vrei să fie copiate"
+
+#: duplicate-post-options.php:261
+msgid "Do not copy these taxonomies"
+msgstr "Nu copia aceste taxonomii"
+
+#: duplicate-post-options.php:255
+msgid "Comma-separated list of meta fields that must not be copied"
+msgstr "Lista câmpurilor meta care nu trebuie să fie copiate, separate prin virgulă"
+
+#: duplicate-post-options.php:250
+msgid "Do not copy these fields"
+msgstr "Nu copia aceste câmpuri"
+
+#: duplicate-post-options.php:77
+msgid "Visit plugin site"
+msgstr "Vizitează situl modulului"
+
+#. #-#-#-#-#  tmp-duplicate-post.pot (Duplicate Post 3.0.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: duplicate-post-options.php:39
+msgid "Duplicate Post"
+msgstr "Duplicare articol"
+
+#: duplicate-post-options.php:39 duplicate-post-options.php:72
+msgid "Duplicate Post Options"
+msgstr "Opțiuni duplicare articole"
+
+#: duplicate-post-admin.php:541 duplicate-post-options.php:78
+msgid "Translate"
+msgstr "Traducere"
+
+#: duplicate-post-admin.php:150 duplicate-post-admin.php:540
+#: duplicate-post-options.php:80
+msgid "Donate"
+msgstr "Donează"
+
+#: duplicate-post-admin.php:268
+msgid "Copy creation failed, could not find original:"
+msgstr "Crearea copiei a eșuat, nu s-a putut găsi originalul:"
+
+#: duplicate-post-admin.php:246
+msgid "No post to duplicate has been supplied!"
+msgstr "Nu a fost furnizat niciun articol pentru duplicare!"
+
+#: duplicate-post-admin.php:191
+msgid "New Draft"
+msgstr "Ciornă nouă"
+
+#: duplicate-post-admin.php:190 duplicate-post-admin.php:211
+#: duplicate-post-common.php:77 duplicate-post-common.php:80
+#: duplicate-post-common.php:114
+msgid "Copy to a new draft"
+msgstr "Copiere într-o ciornă nouă"
+
+#: duplicate-post-admin.php:188
+msgid "Clone"
+msgstr "Clonare"
+
+#: duplicate-post-admin.php:187
+msgid "Clone this item"
+msgstr "Clonează acest element"
